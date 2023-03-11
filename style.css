@@ -1,0 +1,86 @@
+ header{
+    /* background-color: violet; */
+    height: 50px;
+    margin: -8px -8px;
+    text-align: center;
+}
+#head{
+    display: inline-block;
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+    text-align:right;
+    font-weight: bold;
+    margin-left: 710px;
+}
+body{
+    background-image: url("https://media.istockphoto.com/id/1008828490/vector/creative-vector-illustration-of-top-view-simple-classic-wall-office-clock-isolated-on.jpg?s=612x612&w=0&k=20&c=W8hixvHwyy1SFrXYWeKHRleAJNicOdslbVSM8uQlxkU=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 712px;
+}
+.container{
+    width:500px;
+    height: 200px;
+    border-radius: 12px;
+    background-color: sandybrown;
+    margin-top: 50px;
+    margin-left: 550px;
+    padding-top: 15px;
+}
+.hr1{
+    width: 150px;
+    height: 30px;
+    background-color: white;
+    display: inline-block;
+    margin: 5px 0px;
+    border-radius: 12px;
+    border: none;
+}
+/* .min1{
+    width: 150px;
+    height: 30px;
+    background-color: white;
+    display: inline-block;
+    border-radius: 12px;
+    border: none;
+} */
+#hell{
+    /* display: inline-block; */
+    margin: 0px 13px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* font-weight: bold; */
+    font-size: 18px;
+}
+.start{
+    width: 180px;
+    padding: 5px;
+    background-color: green;
+    border-radius: 12px;
+    border: none;
+    margin: 25px 160px;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+.stop{
+    width: 180px;
+    padding: 5px;
+    background-color: red;
+    border-radius: 12px;
+    border: none;
+    margin: 25px 160px;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+.afterp{
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+    display: inline-block;
+    font-weight: bold;
+    color: white;
+    /* margin-top: 20px; */
+    margin-left: 200px ;
+}
